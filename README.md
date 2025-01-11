@@ -19,7 +19,7 @@ A simple, responsive image gallery that allows users to scroll horizontally thro
 
 ## **Demo**
 
-[Live Demo](#) (You can add the GitHub Pages link here once deployed.)
+https://sudhanshu-ranjan-patra.github.io/Gallary/
 
 ---
 
