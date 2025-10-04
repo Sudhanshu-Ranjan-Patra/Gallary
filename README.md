@@ -8,7 +8,6 @@ A simple, responsive image gallery that allows users to scroll horizontally thro
 
 - **Horizontal Scrolling**:  
   Scroll through the images using either the mouse wheel or navigation buttons.
-  
 - **Smooth Scrolling with Buttons**:  
   The `Next` and `Back` buttons enable smooth scrolling by fixed increments.
 
@@ -52,7 +51,6 @@ https://sudhanshu-ranjan-patra.github.io/Gallary/
 
 - **Scroll with Mouse Wheel**:  
   Use the mouse wheel to navigate horizontally through the images.
-  
 - **Use Navigation Buttons**:  
   Click on the **Back** and **Next** buttons to scroll left or right by a fixed amount (600px).
 
@@ -74,10 +72,12 @@ The JavaScript code handles scrolling via mouse wheel and button clicks:
 
 ## **Screenshots**
 
-### Initial View  
+### Initial View
+
 ![Initial View](images/img1.jpeg)
 
-### Navigation Buttons  
+### Navigation Buttons
+
 ![Navigation Buttons](images/back.png)
 
 ---
@@ -97,5 +97,3 @@ The JavaScript code handles scrolling via mouse wheel and button clicks:
 - Add a zoom-in effect when hovering over images.
 
 ---
-
-
